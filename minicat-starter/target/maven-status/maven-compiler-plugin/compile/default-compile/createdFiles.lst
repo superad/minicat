@@ -1,0 +1,5 @@
+com/mengma/minicat/loader/MyClassLoader.class
+com/mengma/minicat/processor/RequestProcessor.class
+com/mengma/minicat/loader/ResourceEntry.class
+com/mengma/minicat/Bootstrap.class
+com/mengma/minicat/mapper/MappingData.class
